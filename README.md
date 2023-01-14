@@ -1,1 +1,1 @@
-# Machine-learning-no-python
+# Machine Learningo no jupyter notebook
